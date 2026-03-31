@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Atharva Kulkarmi👋
 
-<!--
-**atharva25bai10584/atharva25bai10584** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE AIML Student (1st Year)  
+🏫 VIT Bhopal University  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am currently learning the basics of programming and exploring different areas in technology.  
+I am interested in improving my problem-solving skills and building useful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Learn core programming concepts  
+- Build projects and upload them on GitHub  
+- Improve coding skills through practice  
+
+## 📫 Contact
+- Email: atharva.25bai10584@vitbhopal.ac.in
+
+---
+⭐ "Learning step by step and improving every day."
