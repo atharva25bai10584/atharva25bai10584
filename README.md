@@ -6,8 +6,8 @@
 ## 🚀 About Me
 I am currently learning the intermediate of programming and exploring different areas in technology.  
 I am interested in improving my problem-solving skills and building useful projects.
-I am doing leetcode
-i am doing CodeForces
+I am doing leetcode.
+i am doing CodeForces.
 
 ## 🎯 Goals
 - Learn core programming concepts  
